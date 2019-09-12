@@ -19,7 +19,7 @@ ________________________________________________________________________________
 ##### BUY: combining and cleaning the previous data for sell.
 ##### RENT: combining and cleaning the previous data for rent.
 
-#### the next step will be get the vectors and model building.
+#### the next step will be getting the vectors and model building.
 
 #### For the full files(including data) with reference on model building check the link: https://pan.baidu.com/s/1rraiuGeCXP5Oe5Xo5QK9VA
 
