@@ -1,10 +1,10 @@
 # project_jes
 
-### the proejct1(6.17) folder is documented the project I did on data science form 6.17 to 8.19, it contains the News atricle data I scraped from ChinaDaily website, and doing NLP and model building on the exsiting data.
+### the proejct1(6.17) folder ---  is documented the project I did on data science form 6.17 to 8.19, it contains the News atricle data I scraped from ChinaDaily website, and doing NLP and model building on the exsiting data.
 
 ______________________________________________________________________________________________________________________________
 
-### the project2(8.19) folder is documented the project I did since 8.19,
+### the project2(8.19) folder ---  is documented the project I did since 8.19,
 
 #### 1.0 scraping the data and simple data cleaning:
 ##### scrapy: it contains scrapy(the tool I mainly used for scrapying the data -- with 37 spiders that scraped the office,shop,residential data from multiple resources,using rotating IP and fake user agent dealing with the anti-crawling detection and blocking. all the scraped data can be further connected to Database.
