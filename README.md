@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ##### RENT: all the real estate that are for rent, including 5 cities (Beijing, Shanghai, chengdu, shenzhen, guangzhou) and 3 types of bulding. also connected with gaode API to attain the location coordinates.
 
 
-#### 3.0 more on data cleaning and location adding:
+#### 3.0 data combination:
 ##### BUY: combining and cleaning the previous data for sell.
 ##### RENT: combining and cleaning the previous data for rent.
 
