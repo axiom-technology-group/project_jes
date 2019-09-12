@@ -21,5 +21,5 @@ ________________________________________________________________________________
 
 #### the next step will be getting the vectors and model building.
 
-#### For the full files(including data) with reference on model building check the link: https://pan.baidu.com/s/1rraiuGeCXP5Oe5Xo5QK9VA
+#### For all the files(including data) with reference on model building check the link: https://pan.baidu.com/s/1rraiuGeCXP5Oe5Xo5QK9VA
 
