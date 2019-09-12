@@ -11,8 +11,8 @@ ________________________________________________________________________________
 ##### simple scraper: simple scraper using bs4.
 
 #### 2.0 more on data cleaning and location adding:
-##### BUY: all the real estate that are on sell, including 5 cities and 3 types of bulding. also connected with gaode API to attain the location coordinates.
-##### RENT: all the real estate that are for rent, including 5 cities and 3 types of bulding.also connected with gaode API to attain the location coordinates.
+##### BUY: all the real estate that are on sell, including 5 cities (Beijing, Shanghai, chengdu, shenzhen, guangzhou) and 3 types of bulding. also connected with gaode API to attain the location coordinates.
+##### RENT: all the real estate that are for rent, including 5 cities (Beijing, Shanghai, chengdu, shenzhen, guangzhou) and 3 types of bulding. also connected with gaode API to attain the location coordinates.
 
 
 #### 3.0 more on data cleaning and location adding:
