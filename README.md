@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ### the project2(8.19) folder is documented the project I did since 8.19,
 
 #### 1.0 scraping the data and simple data cleaning:
-##### scrapy: it contains scrapy(the tool I mainly used for scrapying the data -- with 37 spiders that scraped the office,shop,residential data from multiple resources,using rotating IP and fake user agent dealing with the anti-crawling detection and fake useragent. all the scraped data can be further connected to Database.
+##### scrapy: it contains scrapy(the tool I mainly used for scrapying the data -- with 37 spiders that scraped the office,shop,residential data from multiple resources,using rotating IP and fake user agent dealing with the anti-crawling detection and blocking. all the scraped data can be further connected to Database.
 ##### simple scraper: simple scraper using bs4.
 
 #### 2.0 more on data cleaning and location adding:
