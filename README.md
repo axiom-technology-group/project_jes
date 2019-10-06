@@ -23,9 +23,9 @@ ________________________________________________________________________________
 
 #### For all the files(including data) with reference on model building check the link: https://pan.baidu.com/s/1rraiuGeCXP5Oe5Xo5QK9VA
 
-#### 4.0 
+#### 4.0 model exploration.
 ______________________________________________________________________________________________________________________________ 
-##### house price prediction:
+#### exploration 1. house price prediction:
   ##### using conventional nural networks models based on the reference to predict the house price in shanghai area.
   ##### the result shows significant improment on the prediction result comparing with other tradition machine learning models.
   ##### 1. tocsv.py Select useful attributes, extract data into data_c.csv file, and filter out unreasonable points and outliers. Some of the attributes attrs = ['decoration_condition', 'elevator', 'ownership', 'framework'] have unknown values, initially used -1 instead, as a new type, the model prediction effect is not ideal; after using the random forest RandomForestClassifier The unknown value is predicted, and the processed data is written to the data_r.csv file.
