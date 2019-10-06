@@ -23,3 +23,9 @@ ________________________________________________________________________________
 
 #### For all the files(including data) with reference on model building check the link: https://pan.baidu.com/s/1rraiuGeCXP5Oe5Xo5QK9VA
 
+#### 4.0 
+______________________________________________________________________________________________________________________________
+##### house price prediction:
+##### using conventional nural networks models based on the reference to predict the house price in shanghai area.
+##### the result shows significant improment on the prediction result comparing with other tradition machine learning models.
+
