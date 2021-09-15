@@ -42,6 +42,7 @@ ___________________________________________
   
   ##### It is also found that the mean square error of the neural network model during training is better than the mean square error of the prediction, so there may be an over-fitting phenomenon, so the dropout layer added in the neural network is updated every time during the training process. The parameters are randomly disconnected from the input neurons by a probability of 0.05 to prevent overfitting. After further adjustment, the R^2 value of the predicted result can be maintained above 0.747. The current module.h5 is a better model, and R^2 is 0.75180572067.
 
-
+### project_cpfreshmartshop
+#### is the recent project made in 2021, september 14th, aim at crawling the website from https://cpfreshmartshop.com/en/
 
 
